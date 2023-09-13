@@ -1,22 +1,29 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Learning Point-Language Hierarchical Alignment for 3D Visual Grounding
+    authors:  <strong>Jiaming Chen</strong>, Weixin Luo, Ran Song, Xiaolin Wei, Lin Ma, Wei Zhang
+    # conference_short: arXiv 2023
+    conference: arXiv 2023
+    pdf: https://arxiv.org/pdf/2210.12513.pdf
+    code: https://github.com/PPjmchen/HAM
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_ham_resized.png
+    # notes: under review
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Nowhere to Go: Benchmarking Multi-robot Collaboration in Target Trapping Environment"
+    authors: Hao Zhang, <strong>Jiaming Chen</strong>, Jiyu Cheng, Yibin Li, Simon X. Yang, Wei Zhang
+    # conference_short: arXiv 2023
+    conference: arXiv 2023
+    pdf: https://arxiv.org/pdf/2308.08862.pdf
+    code: https://github.com/Dr-Xiaogaren/T2E
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/teaser_tie_resized.png
+
+  - title: "Explore Inter-Contrast Between Videos via Composition for Weakly Supervised Temporal Sentence Grounding"
+    authors: Jiaming Chen, Weixin Luo, Wei Zhang, Lin Ma
+    # conference_short: AAAI 2022
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/download/19902/19661
+    image: ./assets/img/teaser_aaai_resized.png
+    conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2022.
