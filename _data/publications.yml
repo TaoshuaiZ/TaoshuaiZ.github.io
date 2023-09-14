@@ -22,7 +22,7 @@ main:
     image: ./assets/img/teaser_tie_resized.png
 
   - title: "Explore Inter-Contrast Between Videos via Composition for Weakly Supervised Temporal Sentence Grounding"
-    authors: Jiaming Chen, Weixin Luo, Wei Zhang, Lin Ma
+    authors:  <strong>Jiaming Chen</strong>, Weixin Luo, Wei Zhang, Lin Ma
     # conference_short: AAAI 2022
     pdf: https://ojs.aaai.org/index.php/AAAI/article/download/19902/19661
     image: ./assets/img/teaser_aaai_resized.png
