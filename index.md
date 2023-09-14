@@ -23,7 +23,6 @@ I am currently a postgraduate student at Visual, Sensing and Intelligent System 
 
 ## Honors
 - Huawei Scholarship - *2022*
-
 - Special Freshman Scholarship, Shandong University  - *2021*
 - The Excellent Graduate in Shandong University  - *2021*
 - Academic Scholarship, Shandong University (2 times) - *2017-2019*
