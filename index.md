@@ -9,7 +9,7 @@ I am currently a master's student at Visual, Sensing and Intelligent System Labo
 
 ## Research Interests
 
-**Computer Vision, Vision-and-Language, Reinforcement Learning, Robot Learning** 
+**Computer Vision, Robot Learning, Vision-and-Language** 
 
 
 {% include_relative _includes/publications.md %}
