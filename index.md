@@ -12,7 +12,3 @@ I am currently a master's student at Visual, Sensing and Intelligent System Labo
 **Computer Vision, Robot Learning, Vision-and-Language** 
 
 
-{% include_relative _includes/publications.md %}
-
-
-<!-- {% include_relative _includes/services.md %} -->
