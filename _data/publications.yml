@@ -1,30 +1,10 @@
 main:
 
-  - title: Learning Point-Language Hierarchical Alignment for 3D Visual Grounding
-    authors:  <strong>Jiaming Chen</strong>, Weixin Luo, Ran Song, Xiaolin Wei, Lin Ma, Wei Zhang
-    # conference_short: arXiv 2023
-    conference: arXiv 2023
-    pdf: https://arxiv.org/pdf/2210.12513.pdf
-    code: https://github.com/PPjmchen/HAM
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_ham_resized.png
-    # notes: under review
+  - title: "VLMPC: Vision-Language Model Predictive Control for Robotic Manipulation"
+    authors:  <strong>Wentao Zhao*</strong>, Jiaming Chen*, Ziyu Meng, DonghuiMao, Ran Song, Wei Zhang
+    conference: "Robotics: Science and Systems <strong>(RSS)</strong>, 2024."
+    pdf: https://enriquecoronadozu.github.io/rssproceedings2024/rss20/p106.pdf
+    code: https://github.com/PPjmchen/vlmpc
+    image: ./assets/img/teaser_vlmpc_resized.png
 
-  - title: "Nowhere to Go: Benchmarking Multi-robot Collaboration in Target Trapping Environment"
-    authors: Hao Zhang, <strong>Jiaming Chen</strong>, Jiyu Cheng, Yibin Li, Simon X. Yang, Wei Zhang
-    # conference_short: arXiv 2023
-    conference: arXiv 2023
-    pdf: https://arxiv.org/pdf/2308.08862.pdf
-    code: https://github.com/Dr-Xiaogaren/T2E
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
-    image: ./assets/img/teaser_tie_resized.png
-
-  - title: "Explore Inter-Contrast Between Videos via Composition for Weakly Supervised Temporal Sentence Grounding"
-    authors:  <strong>Jiaming Chen</strong>, Weixin Luo, Wei Zhang, Lin Ma
-    # conference_short: AAAI 2022
-    pdf: https://ojs.aaai.org/index.php/AAAI/article/download/19902/19661
-    image: ./assets/img/teaser_aaai_resized.png
-    conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2022.
 
