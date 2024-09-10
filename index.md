@@ -6,6 +6,9 @@ layout: homepage
 
 I am currently a master's student at Visual, Sensing and Intelligent System Laboratory ([VSISLab](http://www.vsislab.com/)), School of Control Science and Engineering, [Shandong University](https://www.en.sdu.edu.cn/) (SDU). My advisor is [Prof. Wei Zhang](https://ieeexplore.ieee.org/author/37085379581). From 2018 to 2022, I received my Bachelor's degree in Automation at SDU.
 
+## News
+[2024.7] Attended the RSS conference 2024 at TU Delft, Netherlands.
+[2024.5] One paper is accepted to Robotics: Science and Systems(RSS),2024.
 
 ## Research Interests
 
