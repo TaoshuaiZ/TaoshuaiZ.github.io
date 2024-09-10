@@ -8,6 +8,7 @@ I am currently a master's student at Visual, Sensing and Intelligent System Labo
 
 ## News
 [2024.7] Attended the RSS conference 2024 at TU Delft, Netherlands.
+
 [2024.5] One paper is accepted to Robotics: Science and Systems(RSS),2024.
 
 ## Research Interests
