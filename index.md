@@ -19,5 +19,8 @@ My research interests lie in embodied AI and computer vision. I have a profound 
 {% include_relative _includes/publications.md %}
 
 # Moments
-![这是图片](/assets/img/RSS.jpg "Moments of conference")
-![这是图片](/assets/img/RSS2.jpg "Moments of conference")
+<p align = "center">    
+<img  src="/assets/img/RSS.jpg" width="400" />
+<img  src="/assets/img/RSS2.jpg" width="400" />
+</p>
+
