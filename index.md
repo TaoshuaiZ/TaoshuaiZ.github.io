@@ -21,7 +21,6 @@ My research interests lie in embodied AI and computer vision. I have a profound 
 ## Moments
 <p align = "center">    
 <img  src="/assets/img/RSS.jpg" width="500" />
-<img  src="/assets/img/RSS2.jpg" width="500" />
 </p>
 
 ## More about me
