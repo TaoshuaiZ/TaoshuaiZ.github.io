@@ -8,7 +8,7 @@ I am a master's student at the Visual, Sensing, and Intelligent System Laborator
 
 My research interests lie in embodied AI and computer vision. I have a profound interest in enabling robots to better perceive and interact with the physical world intelligently and efficiently.
 
-
+**I am looking for a PhD position for Fall 2025.**
 
 ## News
 [2024.7] Attended the RSS conference 2024 at TU Delft, Netherlands.
